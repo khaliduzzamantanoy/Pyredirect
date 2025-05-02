@@ -1,3 +1,1 @@
-from app import app as application
-
-# This file is required for WSGI servers like Gunicorn
+from app import app  # 'app' must be the Flask instance in app.py
