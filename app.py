@@ -13,7 +13,7 @@ def log_requests():
 @app.route('/<path:path>')
 def catch_all(path):
     """Redirect all requests to the external result portal"""
-    return redirect(f'https://diu-result-portal.up.railway.app/{path}', code=302)
+    return redirect(f'https://studentsresultportal-5lk5g9m1.b4a.run/{path}', code=302)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
