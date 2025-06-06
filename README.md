@@ -17,7 +17,7 @@
 
 *Seamlessly redirect all incoming requests while preserving path structures with enterprise-grade reliability* ✨
 
-[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-how-it-works) • [🐳 Docker](#-docker-deployment) • [🤝 Contributing](#-contributing)
+[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-how-it-works) • [🐳 Docker](#-docker-deployment) 
 
 </div>
 
@@ -312,45 +312,6 @@ def enhanced_logging():
 
 ---
 
-## 🤝 Contributing
-
-<div align="center">
-
-**We love contributions!** 🎉
-
-[![Contributors](https://img.shields.io/github/contributors/khaliduzzamantanoy/Pyredirect?style=for-the-badge)](https://github.com/khaliduzzamantanoy/Pyredirect/graphs/contributors)
-
-</div>
-
-### 🔄 How to Contribute
-
-```bash
-# 🍴 Fork the repository
-# 📥 Clone your fork
-git clone https://github.com/YOUR_USERNAME/Pyredirect.git
-
-# 🌿 Create a feature branch
-git checkout -b feature/amazing-feature
-
-# ✨ Make your changes
-# 💾 Commit your changes
-git commit -m '✨ Add amazing feature'
-
-# 🚀 Push to your branch
-git push origin feature/amazing-feature
-
-# 🎉 Submit a pull request
-```
-
-### 📋 Contribution Guidelines
-
-- 🐛 **Bug Reports**: Use issue templates
-- ✨ **New Features**: Discuss in issues first
-- 📝 **Code Style**: Follow PEP 8
-- 🧪 **Testing**: Add tests for new features
-- 📖 **Documentation**: Update docs for changes
-
----
 
 ## 📊 Stats & Analytics
 
