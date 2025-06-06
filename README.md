@@ -310,18 +310,7 @@ def enhanced_logging():
 
 </details>
 
----
 
-
-## 📊 Stats & Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=Pyredirect&theme=vue-dark&show_icons=true)
-
-</div>
-
----
 
 ## 📄 License
 
