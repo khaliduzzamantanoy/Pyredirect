@@ -17,7 +17,7 @@
 
 *Seamlessly redirect all incoming requests while preserving path structures with enterprise-grade reliability* ✨
 
-[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-how-it-works) • [🐳 Docker](#-docker-deployment) • [🛠️ Configuration](#-configuration) • [🤝 Contributing](#-contributing)
+[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-how-it-works) • [🐳 Docker](#-docker-deployment) • [🤝 Contributing](#-contributing)
 
 </div>
 
